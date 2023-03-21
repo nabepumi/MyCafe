@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+h1 {
+    font-size: 24px;
+    padding-left: 18px;
+    border-left: solid 8px chocolate;
+}
+p {
+    padding-left:36px;
+}
