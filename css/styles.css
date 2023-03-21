@@ -2,9 +2,9 @@
 
 h1 {
     font-size: 24px;
-    padding-left: 18px;
-    border-left: solid 8px chocolate;
+    padding-left: 8px;
+    border-left: solid 8px pink;
 }
 p {
-    padding-left:36px;
+    padding-left:18px;
 }
